@@ -1,0 +1,29 @@
+{
+  "name": "threedfren",
+  "version": "0.1.0",
+  "description": "Process 3D images, including MPO files, with this simple Node module",
+  "main": "threedfren.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrpjevans/threedfren.git"
+  },
+  "keywords": [
+    "3d",
+    "mpo"
+  ],
+  "author": "PJ Evans <pj@mrpjevans.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrpjevans/threedfren/issues"
+  },
+  "homepage": "https://github.com/mrpjevans/threedfren#readme",
+  "dependencies": {
+    "sharp": "^0.29.3"
+  },
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
