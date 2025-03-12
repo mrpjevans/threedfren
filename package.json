@@ -1,6 +1,6 @@
 {
   "name": "threedfren",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Process 3D images, including MPO files, with this simple Node module",
   "main": "threedfren.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/mrpjevans/threedfren#readme",
   "dependencies": {
-    "sharp": "^0.29.3"
+    "sharp": "^0.33.5"
   },
   "devDependencies": {
     "jest": "^27.4.3"

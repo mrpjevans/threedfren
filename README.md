@@ -1,4 +1,4 @@
-# threedfren v0.1.0
+# threedfren v0.2.0
 Process 3D images, including MPO files, using this simple Node module
 
 ## What is it?
