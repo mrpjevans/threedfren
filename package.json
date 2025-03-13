@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/mrpjevans/threedfren#readme",
   "dependencies": {
+    "commander": "^13.1.0",
     "sharp": "^0.33.5"
   },
   "devDependencies": {
